@@ -14,6 +14,12 @@ Je suis vraiment ravi. Ca serait bien [d'améliorer ](partie-1/prevention-du-vih
 
 jhdgjhs gjfhg skjdhg 
 
+{% hint style="info" %}
+**ATTENTION**
+
+Ceci est une information mise en lumière
+{% endhint %}
+
 {% tabs %}
 {% tab title="R" %}
 ```r
@@ -33,5 +39,15 @@ Intéressant non ?
 | ccc | cccc |
 | ccccc |  |
 
+{% page-ref page="partie-1/prevention-du-vih.md" %}
 
+{% tabs %}
+{% tab title="First Tab" %}
+n,b,nb,nb
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
