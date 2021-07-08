@@ -1,6 +1,6 @@
 # Prévention du VIH
 
-C'est une partie essentielle.
+C'est une partie essentielle de l'ouvrage.
 
 ## Sous-partie
 
