@@ -6,13 +6,17 @@ description: Ceci est une description de la page.
 
 ## Sous-partie
 
-Texte en **gras** et en *italique*.
+Texte en **gras** et en _italique_.
 
 Ca serait bien [d'améliorer le chapitre Prévention](partie-1/prevention-du-vih.md#sous-partie-2).
 
-## Super intéressant
+## Seconde sous-partie
 
-jhdgjhs gjfhg skjdhg 
+### Titre de niveau 2
+
+#### Titre de niveau 3
+
+Il est possible de faire des encadrés \(voir ci-dessous\).
 
 {% hint style="info" %}
 **ATTENTION**
@@ -23,13 +27,13 @@ Ceci est une information mise en lumière
 {% tabs %}
 {% tab title="R" %}
 ```r
-mean(2 + 2, "fehghfhg")
+mean(1:6)
 ```
 {% endtab %}
 
-{% tab title="Sous-partie" %}
+{% tab title="Résultat" %}
 ```
-Intéressant non ?
+3.5
 ```
 {% endtab %}
 {% endtabs %}
