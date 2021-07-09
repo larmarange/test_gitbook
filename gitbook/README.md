@@ -63,7 +63,25 @@ On peut utiliser une mise en forme avancée.
 {% endtab %}
 {% endtabs %}
 
-
 ## Peut-on faire des notes de bas de page ?
 
-Ceci est un essai (exemple) de note^[Ceci est le texte de la note] de bas de page. Est-ce possible ?
+Ceci est un essai \(exemple\) de note^\[Ceci est le texte de la note\] de bas de page. Est-ce possible ? Il semble que les notes de bas de page ne soit pas \(encore ?\) prise en compte par Gitbook.
+
+{% hint style="info" %}
+**terme :** j'indique ici la définition d'un terme spécifique via un encadré.
+{% endhint %}
+
+Il existe différents types d'encadrés.
+
+{% hint style="warning" %}
+On peut indiquer un point d'attention.
+{% endhint %}
+
+{% hint style="danger" %}
+Des mauvaises pratiques. On un risque.
+{% endhint %}
+
+{% hint style="success" %}
+Ou des bonnes pratiques.
+{% endhint %}
+
