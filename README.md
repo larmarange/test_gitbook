@@ -32,13 +32,15 @@ mean(1:6)
 {% endtab %}
 
 {% tab title="Résultat" %}
-```
+```text
 3.5
 ```
 {% endtab %}
 {% endtabs %}
 
-Table 1: Titre du tableau
+Table 1: Titre du tableau \(Pandoc caption ne marche pas\)
+
+**Titre du tableau juste en gras.**
 
 | xccccc | xxxxx |
 | :--- | :---: |
