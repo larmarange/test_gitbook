@@ -43,6 +43,8 @@ mean(1:6)
 | ccc | cccc |
 | ccccc |  |
 
+![Titre de l&apos;image](.gitbook/assets/image.jpg)
+
 {% page-ref page="partie-1/prevention-du-vih.md" %}
 
 {% tabs %}
