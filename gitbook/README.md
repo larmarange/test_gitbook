@@ -64,4 +64,6 @@ On peut utiliser une mise en forme avancée.
 {% endtabs %}
 
 
+## Peut-on faire des notes de bas de page ?
 
+Ceci est un essai (exemple) de note^[Ceci est le texte de la note] de bas de page. Est-ce possible ?
