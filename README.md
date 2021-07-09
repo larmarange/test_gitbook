@@ -38,10 +38,12 @@ mean(1:6)
 {% endtab %}
 {% endtabs %}
 
+Table 1: Titre du tableau
+
 | xccccc | xxxxx |
 | :--- | :---: |
 | ccc | cccc |
-| ccccc |  |
+| ccccc | aaaaaaa |
 
 ![Titre de l&apos;image](.gitbook/assets/image.jpg)
 
