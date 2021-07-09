@@ -10,6 +10,8 @@ Texte en **gras** et en _italique_.
 
 Ca serait bien [d'améliorer le chapitre Prévention](partie-1/prevention-du-vih.md#sous-partie-2).
 
+Dans la section épidémiologique, nous aborderons la prévalence du VIH.
+
 ## Seconde sous-partie
 
 ### Titre de niveau 2
