@@ -67,6 +67,8 @@ On peut utiliser une mise en forme avancée.
 
 Ceci est un essai \(exemple\) de note^\[Ceci est le texte de la note\] de bas de page. Est-ce possible ? Il semble que les notes de bas de page ne soit pas \(encore ?\) prise en compte par Gitbook.
 
+## Encadrés
+
 {% hint style="info" %}
 **terme :** j'indique ici la définition d'un terme spécifique via un encadré.
 {% endhint %}
