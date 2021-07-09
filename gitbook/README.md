@@ -53,11 +53,15 @@ Table 1: Titre du tableau \(Pandoc caption ne marche pas\)
 
 {% tabs %}
 {% tab title="First Tab" %}
-n,b,nb,nb
+texte du premier onglet
+
+On peut utiliser une mise en forme avancée.
 {% endtab %}
 
 {% tab title="Second Tab" %}
 
 {% endtab %}
 {% endtabs %}
+
+
 
