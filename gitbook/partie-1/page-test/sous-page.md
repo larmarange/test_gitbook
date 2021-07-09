@@ -1,6 +1,6 @@
 # Sous-page
 
-## Can I become who I want to be?
+## Titre avec des accents é&èàô
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
