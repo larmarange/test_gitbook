@@ -89,3 +89,9 @@ Des mauvaises pratiques. On un risque.
 Ou des bonnes pratiques.
 {% endhint %}
 
+## Vidéo
+
+{% embed url="https://youtu.be/W5F6kvCMosc" %}
+
+
+
