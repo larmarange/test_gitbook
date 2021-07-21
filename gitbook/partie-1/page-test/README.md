@@ -40,5 +40,9 @@ et ici une image
 
 {% embed url="https://joseph.larmarange.net/" %}
 
+{% file src="../../.gitbook/assets/image.jpg" caption="Image à télécharger" %}
+
+{% page-ref page="../prevention-du-vih.md" %}
+
 
 
