@@ -44,5 +44,13 @@ et ici une image
 
 {% page-ref page="../prevention-du-vih.md" %}
 
+SI l'on souhaite citer une références bibliographique, par exemple \(Shangani _et al._ 2017\), cela doit être géré manuellement.
+
+## Références bibliographiques
+
+Note : obligé de le faire manuellement.
+
+Shangani, Sylvia, Violet Naanyu, Ann Mwangi, Heleen Vermandere, Ethan Mereish, Andrew Obala, Davy Vanden Broeck, John Sidle, and Don Operario. 2017. “Factors Associated with HIV Testing among Men Who Have Sex with Men in Western Kenya: A Cross-Sectional Study.” _International Journal of STD & AIDS_ 28 \(2\): 179–87. [https://doi.org/10/f9spvd](https://doi.org/10/f9spvd).
+
 
 

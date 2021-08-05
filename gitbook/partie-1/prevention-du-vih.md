@@ -2,11 +2,11 @@
 
 C'est une partie essentielle de l'ouvrage.
 
-## Sous-partie
+## Sous-partie \(titre de niveau 1\)
 
 j'écris mon texte
 
-### Sous partie 2
+### Sous-Sous partie \(titre de niveau 2\)
 
 Je **comprends** l'importance de \*tout\* cela.
 
