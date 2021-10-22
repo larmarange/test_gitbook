@@ -2,7 +2,11 @@
 
 ## Titre avec des accents é&èàô <a href="ancre_personnalise" id="ancre_personnalise"></a>
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Écrivons un texte avec du **gras** et de l'_italique._
+
+{% hint style="warning" %}
+C'est un point important.
+{% endhint %}
 
 ## Have you had a chance to answer the previous question?
 
