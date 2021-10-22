@@ -8,13 +8,9 @@ description: Ceci est une description de la page.
 
 Texte en **gras** et en _italique_.
 
-Ca serait bien [d'améliorer le chapitre Prévention](broken-reference).
+Ca serait bien [d'améliorer le chapitre Prévention](partie-1/prevention-du-vih.md#sous-partie-2).
 
 Dans la section épidémiologique, nous aborderons la prévalence du VIH.
-
-> Ceci est une citation.
->
-> _Auteur inconnus_
 
 ## Seconde sous-partie
 
@@ -53,10 +49,10 @@ Table 1: Titre du tableau (Pandoc caption ne marche pas)
 | ccc    |   cccc  |
 | ccccc  | aaaaaaa |
 
-![Titre de l'image](.gitbook/assets/image.jpg)
+![Titre de l'image](<.gitbook/assets/image (1).jpg>)
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="partie-1/prevention-du-vih.md" %}
+[prevention-du-vih.md](partie-1/prevention-du-vih.md)
 {% endcontent-ref %}
 
 {% tabs %}
@@ -64,10 +60,6 @@ Table 1: Titre du tableau (Pandoc caption ne marche pas)
 texte du premier onglet
 
 On peut utiliser une mise en forme avancée.
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
 {% endtab %}
 {% endtabs %}
 
@@ -98,4 +90,3 @@ Ou des bonnes pratiques.
 ## Vidéo
 
 {% embed url="https://youtu.be/W5F6kvCMosc" %}
-
