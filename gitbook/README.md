@@ -10,7 +10,7 @@ Texte en **gras** et en _italique_.
 
 Ca serait bien [d'améliorer le chapitre Prévention](broken-reference).
 
-Dans la section épidémiologique, nous aborderons la prévalence du VIH.
+Dans la section épidémiologique, nous aborderons la prévalence du VIH et également le concept d'_incidence_.
 
 > Ceci est une citation.
 >
