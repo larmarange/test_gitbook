@@ -14,7 +14,7 @@ Ajout d'un tableau
 | :--------------------------------------------------------------------------------------------: | :----------------------: | ----------------------------: |
 | Contenu qui peut être plus ou moins long sachant que de toute façon la présentation s'adaptera | Contenu avec du **gras** | Aligné à droite cette fois ci |
 
-La tablea n'a pas de titre.
+La **tablea **n'a pas de titre.
 
 On peut essayer de tricher avec un tableau dans un onglet.
 
